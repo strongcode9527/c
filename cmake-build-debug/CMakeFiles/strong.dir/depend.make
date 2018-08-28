@@ -3,4 +3,5 @@
 
 CMakeFiles/strong.dir/main.cpp.o: ../main.cpp
 CMakeFiles/strong.dir/main.cpp.o: ../strong.cpp
+CMakeFiles/strong.dir/main.cpp.o: ../template.cpp
 
